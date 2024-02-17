@@ -1,0 +1,9 @@
+body {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+@font-face {
+	font-family: Berfilem;
+	src: url('fonts/Berfilem.otf') format('opentype');
+}
